@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Me-Ankit-kumar
+- 👋 Hi, I’m @me-ankit-kumar
 - 👀 I’m interested in Data science 
 - 🌱 I’m currently learning Btech CSE
 - 💞️ I’m looking to collaborate on ...
